@@ -1,0 +1,40 @@
+.form-card {
+          border: solid;
+          width: 40vw;
+          padding: 15px;
+          border-radius: 10px;
+          background-color:darkslategrey
+        }
+        
+        .main-card {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          
+        }
+        
+        button {
+          margin: 5px;
+        }
+        
+        .btn-card {
+          text-align: right;
+        }
+        
+        .headimg {
+          font-weight: bold;
+          font-family: 'Courier New', Courier, ;
+           color:aqua
+        }
+        
+        
+        .label-el {
+           margin-top: 5px;
+          margin-bottom: 5px;
+         font-weight: 400;
+         color:yellow;
+        }
+        
+  .input-El {
+    padding:10px;
+  }
